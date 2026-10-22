@@ -1,0 +1,6 @@
+{
+  "name": "Countryball 3D: Rolling Adventure",
+  "description": "3D physics-based Countryball action game with cel-shaded comic outlines, squishy balls, WASD & mouse controls, and multi-stage obstacle courses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
